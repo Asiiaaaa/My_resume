@@ -7,7 +7,7 @@
 
 nastena_ch@bk.ru
 
-GitHub: https://github.com/Asiiaaaa/QA/tree/main
+GitHub: https://github.com/Asiiaaaa/QA
 
 ## Навыки
 * введение в программирование C#, Python, Java 
