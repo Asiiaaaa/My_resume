@@ -4,7 +4,9 @@
 Новороссийск, Россия
 
 +7-918-05-13-113 (Whatsapp)
+
 @Asiia_88 Telegram
+
 nastena_ch@bk.ru
 
 GitHub: https://github.com/Asiiaaaa/QA
